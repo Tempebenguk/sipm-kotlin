@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "443319693685",
+    "firebase_url": "https://si-perawatan-mesin-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "si-perawatan-mesin",
+    "storage_bucket": "si-perawatan-mesin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443319693685:android:82b02443a682291998633c",
+        "android_client_info": {
+          "package_name": "com.example.sisteminformasiperawatanmesin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDAhuQLdOFOF24a2S0d-AXw7ttKyeSv94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
